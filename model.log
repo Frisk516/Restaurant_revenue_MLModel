@@ -1,3 +1,4 @@
 2025-10-18 14:58:15,074:INFO:Data imported successfully
 2025-10-18 14:58:17,250:INFO:The data is non-normally distributed
 2025-10-18 15:09:22,973:INFO:linear regression gave low r2 score
+2025-10-18 15:18:36,302:INFO:after checking various algos,linear regression gave the best r2 score
